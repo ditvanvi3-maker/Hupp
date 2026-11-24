@@ -33,7 +33,7 @@ local CFG = {
     ScanDelay = 0.1,
 
     -- Perfect
-    PerfectDelay = 0.35,
+    PerfectDelay = 0.47,
     PerfectWindow = 1.6,
     PerfectClickHold = 0.04,
     PerfectRetries = 5,
